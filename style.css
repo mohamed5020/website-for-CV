@@ -1,0 +1,42 @@
+*{
+    background-color: darkgray;
+}
+#img1{
+    position: absolute;
+    left: 150px;
+
+}
+#name{
+    position: absolute;
+    top: 250px;
+}
+#education{
+    position: absolute;
+    right: 500px;
+    top: 250px;
+ /*   background-color: aliceblue;*/
+}
+.head{
+    font-size: 22px;
+    font-weight: bold; 
+   /* background-color: aliceblue;*/
+}
+#total{
+    position: absolute;
+    top: 0px;
+    left: 500px;
+    background-color: aliceblue;
+    opacity: .2;
+}
+#namee{
+    position: absolute;
+    right: 500px;
+    top: 100px;
+    font-size: 30px ;
+    font-weight: bold;
+}
+#profile{
+    font-size: 20px;
+    /*font-weight: bold;*/
+
+}
